@@ -1,5 +1,5 @@
-# -Analyses-the-features-of-Orthopedic-patients-and-making-a-decision-whether-a-patients-is-Normal-or-
-#Analyses the features of Orthopedic patients and making a decision whether a patients is Normal or Abnormal. 
+
+# Analyses the features of Orthopedic patients and making a decision whether a patients is Normal or Abnormal. 
 Algorithms Used : K-NN 
 Testing Score : 83% 
 K-NN Training Score : 75% 
